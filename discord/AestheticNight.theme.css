@@ -3,13 +3,9 @@
  * @version 3.0.5
  * @description A fork of Meterial Discord Recolored into Aesthetic Night (Original Author by: Capnkitten)
  * @author Deathemonic
- * 
- * @website https://github.com/Deathemonic
- * @source https://github.com/Deathemonic/discord/blob/main/source.css
- * @donate https://paypal.me/capnkitten
  */
 
-@import url(https://rxyhn.is-a.dev/dotfiles/misc/discord/source.css);
+@import url(https://rxyhn.is-a.dev/AestheticStuff/discord/source.css);
 
 :root {
   --accent-hue: 214;
