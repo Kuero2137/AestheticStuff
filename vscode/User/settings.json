@@ -16,7 +16,7 @@
   "editor.inlineSuggest.enabled": true,
   "editor.smoothScrolling": true,
   "editor.suggestSelection": "first",
-  "editor.fontFamily": "JetBrainsMono Nerd Font, Space Mono, Victor Mono, monospace",
+  "editor.fontFamily": "Aesthetic Iosevka Original, monospace",
   "editor.fontLigatures": true,
   "editor.fontSize": 13,
   "workbench.list.smoothScrolling": true,
