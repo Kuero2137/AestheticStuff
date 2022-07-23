@@ -46,4 +46,12 @@
 <img src="https://user-images.githubusercontent.com/93292023/178931074-e4fee64a-c48d-47df-bf0f-55526f42b307.png" width="500px">
 </a>
 
+<br><br>
+
+<b>Telegram Theme</b>
+<br>
+<a href="#--------">
+<img src="https://user-images.githubusercontent.com/65948476/180603733-bf41913f-f816-425d-9c4e-653a68b2c000.png" width="500px">
+</a>
+
 </div>
